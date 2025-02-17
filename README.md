@@ -22,10 +22,13 @@
      ``Visual Studio 2022`` ``Fork`` ``Jira``
 
 <br></br>
-## 🧻 [My Role](https://github.com/JunHyoung1428/ToDarkTooDark-Public/tree/master/Assets/0.Workspace/JunHyoung/_Scripts)
-- 랜덤 맵 생성 시스템
-- 아이템 드랍 시스템 및 아이템 데이터 동기화
-- 튜토리얼 등...
+## 🧻 [My Role](https://github.com/TWE1VE20/ToDarkTooDark-Public/tree/master/Assets/0.Workspace/JoonHi)
+- 메인메뉴, 로비, 룸, 캐릭터소개 UI 및 전체기능 구현
+- 게임외 상점
+- 인게임 NPC (먹동리, 상인)
+- 맵 그림자 시스템
+- 로그인 및 회원가입 시스템 및 플레이어 정보 관리
+- 인게임 함정, 기믹
 
 
 <br></br>
