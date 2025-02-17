@@ -24,10 +24,11 @@
 <br></br>
 ## 🧻 [My Role](https://github.com/TWE1VE20/ToDarkTooDark-Public/tree/master/Assets/0.Workspace/JoonHi/Scripts)
 - 메인메뉴, 로비, 룸, 캐릭터소개 UI 및 전체기능 구현
-- 게임외 상점
-- 인게임 NPC (먹동리, 상인)
-- 맵 그림자 시스템
 - 로그인 및 회원가입 시스템 및 플레이어 정보 관리
+- 게임외 상점
+- 인게임 NPC (먹동리, 상인) 및 관련 UI 상호작용
+- 플레이어 미니맵
+- 맵 그림자 시스템
 - 인게임 함정, 기믹 등등
 
 
